@@ -73,7 +73,7 @@ learning exercise for me. The Dioxus author merged it pretty quickly[^4], so
 it's there for anyone else to try out too.
 
 I've also released a few more Rust crates related to frontend work, but I'll
-go into those in a future blog post. I'll also talk a bit about how I set this
+go into those in a future blog post. I'll also talk a bit about how I set
 up the development environment, and how I've so far managed to avoid needing
 any Node tools like [webpack](https://webpack.js.org/).
 
